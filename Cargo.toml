@@ -1,6 +1,6 @@
 [package]
 name = "pdf-utils"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "CLI utilities for working with PDF files"
 license = "MIT OR Apache-2.0"
